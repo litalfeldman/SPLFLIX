@@ -1,2 +1,0 @@
-# SPLFLIX
-Streaming service system
